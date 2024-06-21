@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>duma-i-uprzedzenie.jpg</file>
+        <file>1984.png</file>
+        <file>ksiaze.jpg</file>
+        <file>alicja.jpg</file>
+        <file>buszujacy-w-zbozu.jpg</file>
+        <file>grona-gniewu.jpg</file>
+        <file>ogrod.jpg</file>
+        <file>portret.jpg</file>
+        <file>wichrowewzgorza.jpg</file>
+        <file>harry.jpg</file>
+        <file>karenina.jpg</file>
+        <file>rozwazna.jpg</file>
+        <file>tadeusz.jpg</file>
+        <file>zbrodnia.jpg</file>
+    </qresource>
+</RCC>

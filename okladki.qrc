@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>okladki/1984.png</file>
+        <file>okladki/alicja.jpg</file>
+        <file>okladki/buszujacy-w-zbozu.jpg</file>
+        <file>okladki/duma.jpg</file>
+        <file>okladki/duma-i-uprzedzenie.jpg</file>
+        <file>okladki/grona-gniewu.jpg</file>
+        <file>okladki/harry.jpg</file>
+        <file>okladki/karenina.jpg</file>
+        <file>okladki/ksiaze.jpg</file>
+        <file>okladki/ogrod.jpg</file>
+        <file>okladki/portret.jpg</file>
+        <file>okladki/rozwazna.jpg</file>
+        <file>okladki/tadeusz.jpg</file>
+        <file>okladki/wichrowewzgorza.jpg</file>
+        <file>okladki/zbrodnia.jpg</file>
+    </qresource>
+</RCC>
